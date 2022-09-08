@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar-brand{
+    margin-left: 5px;
+}
+
+.icone{
+    max-width:50px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+.valor{
+    margin-right: 3px;
+}
+#pr1, #pr2, #pr3{
+    height: 400px;
+}
+.card-image-top{
+    
+    max-height:120px;
+    width: auto;
+    height: auto;
+}
+.ft12{
+    max-width:400px;
+    max-height:300px;
+    
+    border-radius: 50%;
+}
